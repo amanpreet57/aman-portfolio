@@ -1,0 +1,24 @@
+  - title: React Native
+    value: 98
+    icon: "fa-react"
+  - title: React.js
+    value: 95
+    icon: "fa-react"
+  - title: JavaScript
+    value: 94
+    icon: "fa-js"
+  - title: TypeScript
+    value: 93
+    icon: "fa-js"
+  - title: HTML5/CSS3
+    value: 91
+    icon: "fa-html5"
+  - title: Node.js
+    value: 82
+    icon: "fa-node"
+  - title: Android
+    value: 90
+    icon: "fa-android"
+  - title: iOS
+    value: 80
+    icon: "fa-apple"
